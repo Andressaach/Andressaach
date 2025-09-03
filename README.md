@@ -15,9 +15,6 @@ Economista de formação e cientista de dados com especialização em **Economet
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40"/>
 </p>
 
-![Email](https://img.shields.io/badge/Email-anderessa@email.com-blue?style=for-the-badge&logo=gmail&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Anderessa_Henrique-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
-
 Projetos em Data Science 🎲
 
 - [Previsao-de-precos-da-cesta-basica](https://github.com/Andressaach/Previsao-de-precos-da-cesta-basica)
