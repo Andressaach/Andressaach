@@ -1,6 +1,6 @@
 # Olá, sou Anderessa Henrique 👋
 
-Economista de formação e cientista de dados com especialização em **Econometria, Séries Temporais, Risco de Crédito, Business e Analytics**. Minha paixão é transformar dados em insights estratégicos que apoiem decisões de negócios e gerem impacto real.
+Economista e cientista de dados com especialização em **Econometria, Séries Temporais, Risco de Crédito, Business e Analytics**. Minha paixão é transformar dados em insights estratégicos que apoiem decisões de negócios e gerem impacto real.
 
 <p align="left">
   <!-- Python Stack -->
