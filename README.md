@@ -9,16 +9,17 @@ Economista de formação e cientista de dados com especialização em **Economet
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" height="40"/>
   
   <!-- Qlik Sense -->
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/qlik.svg" alt="Qlik Sense" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/qliksense.svg" alt="Qlik Sense" width="40" height="40"/>
   
   <!-- Data Science Libraries -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/statsmodels.svg" alt="Statsmodels" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" alt="Scikit-learn" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/scikitlearn.svg" alt="Scikit-learn" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" alt="Plotly" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40"/>
 </p>
+
    
 Projetos em Data Science 🎲
 
