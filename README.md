@@ -1,15 +1,13 @@
 # Olá, sou Anderessa Henrique 👋
 
-## 👨‍💻 Sobre mim
 
 
 ## 🛠️ Tecnologias e Ferramentas
+- Linguagens: Python, SQL
+- Análise de Dados e Visualizações: Pandas, NumPy, Matplotlib, Seaborn, Plotly, Qlik sense
+- Machine Learning e Modelagem estatística: Sklearn, Statsmodels 
 
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=postgresql)
-![Jupyter Notebook](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=jupyter)
-![Qlik Sense](https://img.shields.io/badge/-QlikSense-333333?style=flat&logo=qlik)
-
-## 📊 Estatísticas do GitHub
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seunome&show_icons=true&theme=radical)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQL" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/42/Qlik_logo.svg" alt="Qlik Sense" width="40" height="40"/>
