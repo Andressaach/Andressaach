@@ -15,6 +15,12 @@ Economista de formação e cientista de dados com especialização em **Economet
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40"/>
 </p>
 
+<!-- Email -->
+[![Email](https://img.shields.io/badge/Email-anderessa@email.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anderessa@email.com)
+
+<!-- LinkedIn -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anderessa_Henrique-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderessa-henrique/)
+
 
 Projetos em Data Science 🎲
 
